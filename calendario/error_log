@@ -1,0 +1,1 @@
+[06-Mar-2010 18:23:53] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'USUARIO_DE_LA_BA'@'localhost' (using password: YES) in /home/espacioe/public_html/carabobo.gob.ve/sgg/calendario/funciones.php on line 33
